@@ -25,7 +25,7 @@ echo "WAITING"
 sleep 2
 echo "installing curl"
 cd $home
-chmod +x troll.sh
+
 apt update && apt upgrade
 apt install curl y
 sleep 2
@@ -53,6 +53,7 @@ fi
 
 if [ $pilih = "2" ]
 then
-   chmod 777 troll.sh
-   sh troll.sh
+cd $home
+cd masih-belajar
+sh troll.sh
 fi
