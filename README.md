@@ -1,2 +1,2 @@
-# masih-belajar
-Saya masih belajar in cuma contoh
+#Tested
+owh aja
