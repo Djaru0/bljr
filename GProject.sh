@@ -2,11 +2,11 @@
 
 clear
 read -p "masukan Nama mu :" nama
-echo "hai,selamat datang tuan" $nama
+echo "hai,selamat datang " $nama
 sleep 3
 clear
 echo "___________________________________"
-echo "|Selamat datang di project XDjaruX |"
+echo "|Selamat datang di project tested  |"
 echo "|Silahkan mau menjalankan apa      |"
 echo "|__________________________________|"
 echo "[1].install Alat² "
